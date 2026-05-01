@@ -6,7 +6,7 @@ Frontend Developer (Junior) | Fullstack Student @ РТУ МИРЭА
 </p>
 
 <p align="center">
-  <a href="https://t.me/canza91">Telegram</a> •
+  <a href="https://t.me/canzas91">Telegram</a> 
 </p>
 
 ---
