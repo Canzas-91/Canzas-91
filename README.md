@@ -2,7 +2,7 @@
 <h1 align="center">Эй 👋 Я АЛЕКСАНДР!</h1>
 
 <p align="center">
-Frontend Developer (Junior) | Fullstack Student @ РТУ МИРЭА
+Frontend Developer | Fullstack Student @ РТУ МИРЭА
 </p>
 
 <p align="center">
@@ -50,6 +50,7 @@ Frontend Developer (Junior) | Fullstack Student @ РТУ МИРЭА
 
 - Командная разработка
 - Frontend часть проекта
+- Работа с API
 - Участие в задачах с ML и LLM
 
 ---
