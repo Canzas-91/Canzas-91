@@ -1,5 +1,5 @@
 # Canzas-Aleksandr
-<h1 align="center">Эй 👋 Я [ТВОЁ ИМЯ]!</h1>
+<h1 align="center">Эй 👋 Я АЛЕКСАНДР!</h1>
 
 <p align="center">
 Frontend Developer (Junior) | Fullstack Student @ РТУ МИРЭА
