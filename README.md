@@ -1,5 +1,5 @@
 # Canzas-Aleksandr
-<h1 align="center">Эй 👋 Я АЛЕКСАНДР!</h1>
+<h1 align="center">Привет, Я АЛЕКСАНДР!</h1>
 
 <p align="center">
 Frontend Developer | Fullstack Student @ РТУ МИРЭА
@@ -11,7 +11,7 @@ Frontend Developer | Fullstack Student @ РТУ МИРЭА
 
 ---
 
-## ✌️ Обо мне
+## Обо мне
 
 Я студент 2 курса РТУ МИРЭА по направлению **Fullstack-разработка**.  
 Сейчас активно развиваюсь во **frontend-направлении** и фокусируюсь на создании удобных и современных интерфейсов.
@@ -20,7 +20,7 @@ Frontend Developer | Fullstack Student @ РТУ МИРЭА
 
 ---
 
-## 🚀 Мой стек
+## Мой стек
 
 - HTML, CSS, SASS
 - JavaScript
@@ -31,15 +31,15 @@ Frontend Developer | Fullstack Student @ РТУ МИРЭА
 
 ---
 
-## 💼 Проекты
+## Проекты
 
-### 🌸 Интернет-магазин доставки букетов
+### Интернет-магазин доставки букетов
 - frontend разработка
 - авторизация
 - работа с API
 - UI/UX
 
-### ⏳ Focus Timer
+### Focus Timer
 - frontend разработка
 - Адаптивная вёрстка
 - Работа с DOM
@@ -54,7 +54,7 @@ Frontend Developer | Fullstack Student @ РТУ МИРЭА
 
 ---
 
-## 🤝 Опыт
+## Опыт
 
 - Командная разработка
 - Frontend часть проекта
@@ -63,7 +63,7 @@ Frontend Developer | Fullstack Student @ РТУ МИРЭА
 
 ---
 
-## ⚡ Сильные стороны
+## Сильные стороны
 
 - Быстрая обучаемость  
 - Ответственность  
@@ -72,7 +72,7 @@ Frontend Developer | Fullstack Student @ РТУ МИРЭА
 
 ---
 
-## 🎯 Цель
+## Цель
 
 Развиваться как **frontend-разработчик**  
 и получить опыт в коммерческой разработке.
